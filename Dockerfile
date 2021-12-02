@@ -1,4 +1,4 @@
-FROM golang:1.12.0-alpine3.9
+FROM golang:latest
 
 RUN mkdir /app
 ## We copy everything in the root directory
