@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
-	main2 "https://github.com/stephanLandwehr/os-test/openshift-tests/openshift-test/main2.go"
+	main2 "github.com/stephanLandwehr/os-test/openshift-tests/openshift-test/main2.go"
 )
 
 func main() {
